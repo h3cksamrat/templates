@@ -1,4 +1,4 @@
 [submodule "vite-react-template"]
 	path = vite-react-template
 	url = git@github.com:h3cksamrat/vite-react-template
-	branch = dev
+	branch = main
